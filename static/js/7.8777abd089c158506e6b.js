@@ -1,0 +1,2 @@
+webpackJsonp([7],{Cokh:function(t,e,r){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"mhome_wrap"},[e("van-nav-bar",{attrs:{title:"标题","left-text":"返回","left-arrow":""}},[e("van-icon",{attrs:{slot:"right",name:"search"},slot:"right"})],1),this._v(" "),e("p",[this._v("手机")])],1)},staticRenderFns:[]},a=r("VU/8")({},s,!1,null,null,null);e.default=a.exports}});
+//# sourceMappingURL=7.8777abd089c158506e6b.js.map
