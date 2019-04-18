@@ -1,2 +1,0 @@
-webpackJsonp([0],{zXdv:function(e,t,n){"use strict";var a=n("jn0r"),r=n("IcnI");t.a={getNewList:function(e){var t=r.a.state.configuration.githubUsername;return Object(a.a)({url:"/users/"+t+"/gists?page="+e.page+"&per_page="+e.pageSize})},getSingleNew:function(e){return Object(a.a)({url:"/gists/"+e})}}}});
-//# sourceMappingURL=0.17de43ce451b7c296cf3.js.map
