@@ -1,0 +1,1 @@
+webpackJsonp([4],{RLdM:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"mBookshelf_wrap"},[this._v("书架")])},staticRenderFns:[]};var s=a("VU/8")({},n,!1,function(e){a("i9qm")},"data-v-3aa7ade4",null);t.default=s.exports},i9qm:function(e,t){}});
