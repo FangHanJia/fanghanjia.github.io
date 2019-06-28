@@ -1,0 +1,1 @@
+webpackJsonp([5],{MhGO:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"mBlog_wrap"},[this._v("博客")])},staticRenderFns:[]};var s=n("VU/8")({},r,!1,function(e){n("TgHm")},"data-v-4d33f3dd",null);t.default=s.exports},TgHm:function(e,t){}});
